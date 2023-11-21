@@ -1,6 +1,6 @@
 # Security Testing
 
-## 1. ** Scope Setup / Defination **
+## 1. **Scope Setup / Defination**
 
    - [ ] Set up proxy, target scope, and other configurations,if required.
 
